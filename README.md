@@ -1,8 +1,6 @@
 # A Pronunciation Dictionary App
 * **Objective**
 	* to implement a linguistic application that uses a pronunciation dictionary for finding words with similar pronunciation.
-* **Purpose**
-	* 
 * **Description**
 	* In this project, you are going to implement a linguistic application that uses a pronunciation dictionary for finding words with similar pronunciation. 
 
